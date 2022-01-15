@@ -1,1 +1,3 @@
-[I'm an inline-style link](https://www.google.com)
+[YouTube kanalı](https://www.youtube.com/channel/UCMIx_vdkJUJQAV14ZbrC17g)
+[Instagram](https://www.instagram.com/211.studios)
+
