@@ -1,1 +1,1 @@
-# D3str0yGM.github.io
+[I'm an inline-style link](https://www.google.com)
